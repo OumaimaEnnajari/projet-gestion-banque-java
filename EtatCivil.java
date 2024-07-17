@@ -1,0 +1,5 @@
+package TP;
+
+public enum EtatCivil {
+	CELIBATAIRE,MARIE,MARIEE,DIVORCE,DIVORCEE,VEUF,VEUVE
+}
